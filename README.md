@@ -11,7 +11,7 @@ Hi, I’m **Ananya Kar** 👩‍💻 — passionate about **Cybersecurity, AI, a
 
 - 🔭 Currently working on: AI-driven cybersecurity tools + passwordless authentication systems  
 - 🎯 Goals: Collaborating on **cybersecurity + AI projects**, preparing for **ETHIndia & GSoC 2025**  
-- 🌱 Learning: Rust, Low-level programming, and Japanese (N5 level)  
+- 🌱 Learning: Rust, Low-level programming  
 - 💬 Ask me about: Java, Python, Security Tools, System Design  
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/ananya-kar-6378291b4) • [LeetCode](https://leetcode.com/u/8tBjVow6FI) • or DM on LinkedIn  
 
