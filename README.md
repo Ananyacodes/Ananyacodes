@@ -7,7 +7,7 @@
 ---
 
 ## 💡 About Me
-Hi, I’m **Ananya Kar** 👩‍💻 — passionate about **Cybersecurity, AI, and Java projects**.  
+Hi, I’m **Ananya Kar** 👩‍💻 — passionate about **Cybersecurity, AI, and Cryptography**.  
 
 - 🔭 Currently working on: AI-driven cybersecurity tools + passwordless authentication systems  
 - 🎯 Goals: Collaborating on **cybersecurity + AI projects**, preparing for **ETHIndia & GSoC 2025**  
