@@ -11,7 +11,7 @@ Hi, I’m **Ananya Kar** — passionate about **Cybersecurity, AI, and Cryptogra
 I like to code and I create cute stuff to help you protect your devices and transactions
 
 - Currently working on: AI-driven cybersecurity tools + passwordless authentication systems  
-- Goals: Collaborating on **cybersecurity + AI / cryptography based projects**, preparing for **ETHIndia & GSoC 2025**  
+- Goals: Collaborating on **cybersecurity + AI / cryptography based projects** 
 - Learning: Low-level programming, forensic tools  
 - Ask me about: Security Tools, System Design  
 - Reach me: [LinkedIn](https://linkedin.com/in/ananya-kar-6378291b4) • [LeetCode](https://leetcode.com/u/8tBjVow6FI) • or DM on LinkedIn  
