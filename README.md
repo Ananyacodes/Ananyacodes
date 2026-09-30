@@ -18,7 +18,6 @@
   <a href="https://medium.com/@ananyakar2007"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
   <a href="https://gitlab.com/ananyacodes"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /></a>
   <a href="https://x.com/Ananyacodes"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/8tBjVow6FI"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
   <a href="mailto:ananyakar2007@gmail.com"><img src="https://img.shields.io/badge/Email-C792EA?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -33,11 +32,11 @@ $ cat now.txt
 → ns-3 contributor                plain IPv6 ⇄ 6LoWPAN coexistence on shared links
 
 $ cat history.log
-[2026] CAIR, DRDO                 hunted anomalies across 2k+ system, firewall & network logs
+[2026] CAIR, DRDO                 log analytics,security across 2k+ system, firewall & network logs 
 [2025] SparkIIT × Wipro           IDS for live cloud traffic, 3 detectors running in parallel
 
 $ cat stance.txt
-security first. ML where it actually earns its place.
+security first. ML where actually needed.
 
 $ ls ./interests
 network-security/  intrusion-detection/  firmware/  blue-team/  adversarial-ml/
