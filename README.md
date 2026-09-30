@@ -4,13 +4,14 @@
   <i>cyber with whimsy — i build to break things so they don't break on you.</i>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=C792EA&center=true&vCenter=true&width=600&lines=network+security+%C2%B7+firmware+%C2%B7+intrusion+detection;research+intern+%40+CSIR-4PI;contributing+to+ns-3;mostly+firewalls%2C+logs%2C+and+packet+captures" alt="intro" />
-</p>
 
-<p align="center">
-  <img src="./assets/ghost-crew.svg" alt="do it for the love of the game not always the impact <3" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=C792EA&center=true&vCenter=true&width=600&lines=network+security+%C2%B7+firmware+%C2%B7+intrusion+detection;research+intern+%40+CSIR-4PI;contributing+to+ns-3;mostly+firewalls%2C+logs%2C+and+packet+captures" alt="intro" />
+
+<img src="https://raw.githubusercontent.com/Ananyacodes/Ananyacodes/main/ghost-crew.svg" alt="do it for the love of the game, not always the impact" width="540" />
+
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/ananya-kar-6378291b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
