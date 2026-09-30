@@ -1,63 +1,70 @@
-# Hey I'm Ananyacodes! 
+<h1 align="center">ananya kar</h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=Ananyacodes&color=blueviolet)  
-![GitHub followers](https://img.shields.io/github/followers/Ananyacodes?style=social)  
-![GitHub stars](https://img.shields.io/github/stars/Ananyacodes?style=social)
+<p align="center">
+  <i>cyber with whimsy — i build to break things so they don't break on you.</i>
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1400&color=C792EA&center=true&vCenter=true&width=600&lines=network+security+%C2%B7+firmware+%C2%B7+intrusion+detection;research+intern+%40+CSIR-4PI;contributing+to+ns-3;mostly+firewalls%2C+logs%2C+and+packet+captures" alt="intro" />
+</p>
 
-## About Me
-Hi, I’m **Ananya Kar** — passionate about **Cybersecurity, AI, and Cryptography**.  
-I like to code and I create cute stuff to help you protect your devices and transactions
+<p align="center">
+  <img src="./assets/ghost-crew.svg" alt="do it for the love of the game not always the impact <3" />
+</p>
 
-- Currently working on: AI-driven cybersecurity tools + passwordless authentication systems  
-- Goals: Collaborating on **cybersecurity + AI / cryptography based projects** 
-- Learning: Low-level programming, forensic tools  
-- Ask me about: Security Tools, System Design  
-- Reach me: [LinkedIn](https://linkedin.com/in/ananya-kar-6378291b4) • [LeetCode](https://leetcode.com/u/8tBjVow6FI) • or DM on LinkedIn  
-
----
-
-## Tech Stack
-
-**Languages:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Frameworks & Tools:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-**Cybersecurity & OS:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+<p align="center">
+  <a href="https://linkedin.com/in/ananya-kar-6378291b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@ananyakar2007"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
+  <a href="https://gitlab.com/ananyacodes"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /></a>
+  <a href="https://x.com/Ananyacodes"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/8tBjVow6FI"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:ananyakar2007@gmail.com"><img src="https://img.shields.io/badge/Email-C792EA?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-## GitHub Stats
+```console
+$ whoami
+ananya kar · cs undergrad @ SRMIST · network & systems security
 
-![Ananyacodes's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ananyacodes&show_icons=true&theme=radical)  
+$ cat now.txt
+→ research intern @ CSIR-4PI      firmware malware analysis for automotive ECUs & IoT
+→ ns-3 contributor                plain IPv6 ⇄ 6LoWPAN coexistence on shared links
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyacodes&layout=compact&theme=radical)
+$ cat history.log
+[2026] CAIR, DRDO                 hunted anomalies across 2k+ system, firewall & network logs
+[2025] SparkIIT × Wipro           IDS for live cloud traffic, 3 detectors running in parallel
 
-![Ananyacodes's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ananyacodes&theme=tokyo-night)
+$ cat stance.txt
+security first. ML where it actually earns its place.
+
+$ ls ./interests
+network-security/  intrusion-detection/  firmware/  blue-team/  adversarial-ml/
+```
+
+### ◆ things i've built
+
+| project | what it does |
+|---|---|
+| [**privacy_guardian**](https://github.com/Ananyacodes/privacy_guardian) | zero-leak privacy router on a Pi — nftables, DNS-layer tracker blocking, DoH/DoT blocking, full IPv6 leak prevention |
+| [**SONAR**](https://github.com/Ananyacodes/Security-Operations-Network-Analysis-Response) | one blue-team console for log analysis, forensics, stego detection & a malware sandbox |
+| [**threat-intelligence**](https://github.com/Ananyacodes/threat-intelligence) | threat detection platform built on real Windows event logs |
+| [**adverserial-5g-dt**](https://github.com/Ananyacodes/adverserial-5g-dt) | 5G digital twin (Python + ns-3) for attacking anomaly detectors and testing defenses against it |
+| [**behavior_logger_mcp**](https://github.com/Ananyacodes/behavior_logger_mcp) | privacy-preserving multi-device monitoring — raw logs never leave the device |
+
+### ◆ papers
+
+- **IEEE** — *Application of Quantum Technologies for Metro System Efficiency, Enhancement and Optimization*
+- **under review** — *Stablecoin Risk Monitoring for Financial Assets*
+
+### ◆ toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,cpp,rust,js,linux,docker,raspberrypi,bash,pytorch&theme=dark" />
+</p>
+
+<sub>also: wireshark · wazuh · nftables · ns-3 · kali · scikit-learn</sub>
 
 ---
 
-## GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Ananyacodes&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-<details>
-  <summary> Social media links!</summary>
-  
-  - [LinkedIn](https://linkedin.com/in/ananya-kar-6378291b4)
-  - [Leetcode](https://leetcode.com/u/8tBjVow6FI)
-</details>
+<p align="center"><sub>if it talks to the internet, is unconventional and will give you an existential crisis, it's my business :D✦</sub></p>
